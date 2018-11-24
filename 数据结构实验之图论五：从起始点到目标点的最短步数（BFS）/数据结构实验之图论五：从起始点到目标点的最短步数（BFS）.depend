@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543067865 source:c:\赵静 code blocks\数据结构实验之图论五：从起始点到目标点的最短步数（bfs）\main.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<stdlib.h>
+
